@@ -1,0 +1,27 @@
+
+h1 {
+    font-family: sans-serif;
+    color: #341c4e;
+    font-size: x-large;
+    text-align: center;
+}
+
+body{
+    background-color: #967eb1;
+}
+
+input{
+    text-align: center;
+    font-family: sans-serif;
+    color: #59429d;
+    font-size: large;
+}
+div{
+    background-color: aliceblue;
+    top: 32% ;
+    left: 38%;
+    padding: 40px;
+    border-radius: 40px  ;
+    position: absolute;
+    box-shadow: blueviolet 4px 10px 25px;
+}
